@@ -2,7 +2,7 @@
 
 ## Edit-in-place with jQuery
 
-Inspired by [this](http://24ways.org/2005/edit-in-place-with-ajax] 24 Ways article (which in turn was inspired by Flickr-style editing), this script allows you to have elements which are highlighted when you hover over them and transform into a text field when you click on them.
+Inspired by [this](http://24ways.org/2005/edit-in-place-with-ajax]) 24 Ways article (which in turn was inspired by Flickr-style editing), this script allows you to have elements which are highlighted when you hover over them and transform into a text field when you click on them.
 
 ### Usage
 
